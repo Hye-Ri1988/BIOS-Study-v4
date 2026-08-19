@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "USERNAME.github.io/BIOS-Study",
+    baseUrl: "Hye-Ri1988.github.io/BIOS-Study",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
